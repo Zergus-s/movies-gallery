@@ -38,7 +38,7 @@ Cards logic: If a title has a lower rating than 7 please add a down thumb icon
 Browse Logic: If a user is not logged in they can browse to home but cannot see the data
 underneath the card
 Welcome Logic: if a user does not finish the signup process on app launch user should be shown
-resume signup button
+resume signup button.
  
 ------------------------------------------------------------------------------------------------------------------------------------------
 
